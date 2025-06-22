@@ -89,5 +89,4 @@
 -   Laravel
 -   MySQL
 -   Blade (para views)
--   Bootstrap/Tailwind (para estilo)
--   JavaScript
+
